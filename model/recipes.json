@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Instant Plutonium Cell",
+        "machine": "Particle Accelerator",
+        "time": 120,
+        "energy": 750,
+        "inputs": [
+            {
+                "name": "Non-Fissile Uranium",
+                "quantity": 75,
+                "raw_quantity": 150
+            },
+            {
+                "name": "Aluminum Casing",
+                "quantity": 10,
+                "raw_quantity": 20
+            }
+        ],
+        "output": {
+            "name": "Encased Plutonium Cell",
+            "quantity": 10,
+            "raw_quantity": 20
+        },
+        "byproduct": []
+    }    
+]
